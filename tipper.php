@@ -103,7 +103,6 @@
 <head>
 <title>Tip Calculator</title>
 <style type="text/css">
-<!-- All CSS formatting goes in here -->
 
 body {
     background-color: lightblue;
