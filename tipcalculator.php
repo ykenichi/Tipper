@@ -198,7 +198,7 @@ h1 {
 </head>
 <body>
 
-<h1>Tipper</h1>
+<h1>Tip Calculator</h1>
 
 <div id="divMain">
 	<form action="" method="post">

@@ -1,6 +1,6 @@
-# Pre-work - *Tipper*
+# Pre-work - *Tip Calculator*
 
-**Tipper** is a tip calculator PHP page.
+**Tip Calculator** is a tip calculator PHP page.
 
 Submitted by: **Kenichi Yamamoto**
 
